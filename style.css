@@ -1,0 +1,96 @@
+header{
+    background-image: url('plant background10.jpg');
+    height: 100vh;
+    background-position: center;
+   background-size: cover;
+}
+ul{
+    float: right;
+    margin-top: 25px;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    color:rgb(102, 223, 142);
+    padding: 5px 20px;
+    font-size: 20px;
+    border: 2px solid rgb(102, 223, 142);
+
+}
+ul li a:hover{
+    background-color: rgb(157, 255, 161);
+    color: black;
+}
+
+.name{
+position: absolute;
+top:40%;
+left:30%;
+transform:translate(-50%,-50%);
+}
+.name h1{
+    color:rgb(151, 255, 142);
+    font-size: 50px;
+}
+.new{
+position: absolute;
+top:60%;
+left:15%;
+transform:translate(-50%,-50%);
+
+}
+.button{
+    border: 1px solid rgb(89, 238, 121);
+    padding: 10px 30px;
+    color: rgb(87, 238, 132);
+    font-size: 20px;
+
+}
+.button:hover{
+    background-color: rgb(113, 241, 97);
+    color: black;
+}
+div.main1{
+    font-size: 25px;
+    background-color: rgb(110, 165, 122);}
+a {
+    color: rgb(16, 94, 35);
+    padding: 25px 10px;
+}
+a:hover{
+    color:rgb(61, 145, 61);
+}
+.row img{
+    margin-left: 100px;
+    margin-top: 25px;
+    border: 1px solid rgb(24, 18, 18);
+    border-radius: 8px;
+    padding: 20px;
+    width: 250px;
+    height: 250px;
+}
+p{
+    text-align: center;
+    font-size: 18px;
+    background-color: rgb(145, 173, 117);
+    margin-left: 100px;
+}
+.btn {
+    border:none;
+    background-color: inherit;
+    padding: 5px 25px;
+    font-size: 15px;
+    cursor:pointer;
+    display: inline-block;
+
+}
+.btn:hover {
+    background: rgb(39, 110, 39);
+     color: black;
+    }
+   .name h2{
+        font-size: 60px;
+        color:rgb(151, 255, 142);
+    
+    }
